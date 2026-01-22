@@ -1,0 +1,15 @@
+.lunch{
+    text-align: center;
+    vertical-align: middle; 
+}
+body {
+text-align: center;
+  background-image: url("imagesss.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 150% 150%; 
+}
+table {
+  margin: 20px auto;
+}
+
