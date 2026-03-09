@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, sans-serif;
+    background: url("imagesss.jpg");
+    padding:40px;
+}
+
+.container{
+    width:70%;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px rgba(0,0,0,0.2);
+}
+
+h1{
+    text-align:center;
+}
+
+.professor{
+    text-align:center;
+    margin-top:20px;
+}
+
+.professor img{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    object-fit:cover;
+    border:3px solid #333;
+}
+
+.section{
+    margin-top:25px;
+}
+
+.back{
+    display:inline-block;
+    margin-top:30px;
+    padding:10px 20px;
+    background:#007BFF;
+    color:white;
+    text-decoration:none;
+    border-radius:5px;
+}
