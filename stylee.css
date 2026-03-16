@@ -25,3 +25,32 @@ table {
     right:20px;
     width:90px;
 }
+
+/* Mobile Responsive */
+@media (max-width:768px){
+
+.logo-left{
+    width:45px;
+    top:5px;
+    left:5px;
+}
+
+.logo-right{
+    width:45px;
+    top:5px;
+    right:5px;
+}
+
+h1{
+    font-size:16px;
+}
+
+h3{
+    font-size:12px;
+}
+
+table{
+    width:100%;
+    font-size:12px;
+}
+}
